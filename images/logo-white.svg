@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
+  <style>
+    .logo-text { font-family: Arial, sans-serif; font-weight: bold; }
+    .primary { fill: #003366; }
+    .secondary { fill: #00ccff; }
+  </style>
+  <path class="secondary" d="M50,20 L70,50 L60,70 L30,70 L20,50 L40,20 Z" />
+  <path class="secondary" d="M80,20 L100,50 L90,70 L60,70 L50,50 L70,20 Z" />
+  <path class="primary" d="M65,50 L85,80 L75,90 L55,90 L45,80 L55,50 Z" />
+  <text x="100" y="95" text-anchor="middle" class="logo-text primary" font-size="12">CONSULTORIA CRM</text>
+</svg>
